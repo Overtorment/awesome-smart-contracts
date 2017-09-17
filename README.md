@@ -1,6 +1,6 @@
 # Awesome Smart Contracts
 
-# List of platforms for smart contracts
+## List of platforms for smart contracts
 
 
 | Platform name                          | Contract language    | Released |
