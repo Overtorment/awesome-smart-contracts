@@ -3,14 +3,15 @@
 ## List of platforms for smart contracts
 
 
-| Platform name                          | Contract language    | Released |
-|----------------------------------------|:--------------------:|---------:|
-| [Ethereum](https://www.ethereum.org/)  |  Solidity            | Yes      |
-| Neo                                    |  ?                   | Yes      |
-| [Nem](https://nem.io/)                 |  ?                   | ?        |
-| Exonum                                 |  ?                   | Yes      |
-| Qtum                                   |  ?                   | ?        |
-| [Tezos](https://www.tezos.com)         |  Michelson           | -        |
+| Platform name                          | Contract language                                           | Released |
+|----------------------------------------|:-----------------------------------------------------------:|---------:|
+| [Ethereum](https://www.ethereum.org/)  |  [Solidity](http://solidity.readthedocs.io)                 | Yes      |
+| Neo                                    |  ?                                                          | Yes      |
+| [Nem](https://nem.io/)                 |  ?                                                          | ?        |
+| Exonum                                 |  ?                                                          | Yes      |
+| Qtum                                   |  ?                                                          | ?        |
+| [Tezos](https://www.tezos.com)         |  Michelson                                                  | -        |
+| [EOS](https://eos.io/)                 |  Web Assembly (aka WASM) ?                                  | -        |    
 
 
 
