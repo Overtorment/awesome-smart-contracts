@@ -16,4 +16,9 @@
 
 
 
+## Ethereum
 
+Contract examples: 
+* https://github.com/fivedogit/solidity-baby-steps
+* https://github.com/OpenZeppelin/zeppelin-solidity/tree/master/contracts
+* https://github.com/ConsenSys/
