@@ -13,6 +13,16 @@
 | [Tezos](https://www.tezos.com)         |  Michelson                                                  | -        |
 | [EOS](https://eos.io/)                 |  Web Assembly (aka WASM) ?                                  | -        |    
 | [Urbit](https://urbit.org/)            |  Hoon                                                       | Yes      |    
+| Waves                                  |  ?                                                          | Yes      |    
+| NXT                                    |  ?                                                          | Yes      |    
+| Counterparty                           |  ?                                                          | Yes      |    
+| BitShares                              |  ?                                                          | Yes      |    
+
+
+
+
+
+
 
 
 
