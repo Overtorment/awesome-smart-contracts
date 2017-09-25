@@ -17,7 +17,8 @@
 | NXT                                    |  ?                                                          | Yes      |    
 | Counterparty                           |  ?                                                          | Yes      |    
 | BitShares                              |  ?                                                          | Yes      |    
-
+| hyperledger                            |  ?                                                          | ?        |    
+| quorum                                 |  ?                                                          | ?        |    
 
 
 
