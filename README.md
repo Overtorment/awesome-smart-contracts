@@ -31,6 +31,9 @@
 
 ## Ethereum
 
+Solidity docs
+  * [solidity.readthedocs.io](http://solidity.readthedocs.io)
+
 Contract examples: 
 * https://github.com/fivedogit/solidity-baby-steps
 * https://github.com/OpenZeppelin/zeppelin-solidity/tree/master/contracts
