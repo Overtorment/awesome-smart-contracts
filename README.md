@@ -19,6 +19,7 @@
 | BitShares                              |  ?                                                          | Yes      |    
 | hyperledger                            |  ?                                                          | ?        |    
 | quorum                                 |  ?                                                          | ?        |    
+| [Rootstock](http://www.rsk.co/)        |  ?                                                          | ?        |    
 
 
 
