@@ -3,16 +3,16 @@
 ## List of platforms for smart contracts
 
 
-| Platform name                          | Contract language                                           | Released |Origin | Inc. in  | Est.  | Released |
-|----------------------------------------|:-----------------------------------------------------------:|---------:|------:|-----------------:|-------:|--------|
+| Platform name                          | Contract language                                           | Released |Origin | Inc. in          | Est.  | Pub. release.|
+|----------------------------------------|:-----------------------------------------------------------:|---------:|------:|-----------------:|------:|--------------|
 | [Ethereum](https://www.ethereum.org/)  |  [Solidity](http://solidity.readthedocs.io)                 | Yes      |RU/CA  |Zug, Switzerland  |  
-| [Ethereum Classic](https://ethereumclassic.github.io/)|  Solidity                                    | Yes      | ^^^   | no
-| [Neo](https://neo.org/)                |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes   | China | China    |2014.06|2016.10   |
+| [Ethereum Classic](https://ethereumclassic.github.io/)|  Solidity                                    | Yes      | ^^^   | no               |
+| [Neo](https://neo.org/)                |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes   | China | China            |2014.06|2016.10       |
 | [Nem](https://nem.io/)                 |  ?                                                          | ?        |
 | Exonum                                 |  ?                                                          | Yes      |
 | Qtum                                   |  ?                                                          | ?        |
-| [Tezos](https://www.tezos.com)         |  Michelson                                                  | no        |
-| [EOS](https://eos.io/)                 |  Web Assembly (aka WASM) ?                                  | no        |    
+| [Tezos](https://www.tezos.com)         |  Michelson                                                  | no       |
+| [EOS](https://eos.io/)                 |  Web Assembly (aka WASM) ?                                  | no       |    
 | [Urbit](https://urbit.org/)            |  Hoon                                                       | Yes      |    
 | Waves                                  |  ?                                                          | Yes      |    
 | NXT                                    |  ?                                                          | Yes      |    
@@ -20,10 +20,7 @@
 | BitShares                              |  ?                                                          | Yes      |    
 | hyperledger                            |  ?                                                          | ?        |    
 | quorum                                 |  ?                                                          | ?        |    
-| [Rootstock](http://www.rsk.co/)        |  ?                                                          | ?        |    
-
-
-
+| [Rootstock](http://www.rsk.co/)        |  Solidity                                                   | no       |Argentina|                 |2015.11|
 
 
 
@@ -59,8 +56,10 @@ Not incorporated.
 
 ## Neo
 
- NEO (formerly Antshares) is a Chinese answer to Ethereum. Neo is a major player in SmartContracts world and 
- often compared to Ethereum.
+NEO (formerly Antshares) is a Chinese answer to Ethereum. Neo is a major player in SmartContracts world and 
+often compared to Ethereum.
+
+First batch on supported languages is ready for production use. Second is partially ready, and third is planned.
 
 Docs
  * [docs.neo.org/en-us/sc/introduction.html](http://docs.neo.org/en-us/sc/introduction.html)
@@ -74,3 +73,17 @@ WTF is dis
 
 Contract examples: 
 * https://github.com/urbit/examples
+
+
+## Rootstock
+
+Rootstock is a Bitcoin sidechain, adding Turing-complete language (enabling smart contracts) and ability to
+scale up to 20k transactions per second (eventually). Sidechain shall be secured by a merge-mining with regular Bitcoin pools.
+
+Rootstock is very well received by community, and among all 2nd layer solutions for Bitcoin is considered to be 
+one of the closest to completion.
+
+Language used shall be Solidity, and RSK VM is fully compatible with Ethereum VM.
+
+Docs
+    * https://faq.rsk.co/en/main/
