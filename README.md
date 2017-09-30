@@ -86,7 +86,7 @@ one of the closest to completion.
 Language used shall be Solidity, and RSK VM is fully compatible with Ethereum VM.
 
 Docs
-    * https://faq.rsk.co/en/main/
+ * https://faq.rsk.co/en/main/
     
     
 # License
