@@ -1,6 +1,8 @@
 # Awesome Smart Contracts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## List of platforms for smart contracts
+Curated list of platforms to run Smart Contracts.
+
+This document is licensed [WTFPL](http://www.wtfpl.net/txt/copying/)
 
 
 | Platform name                          | Contract language                                           | Released |Origin | Inc. in          | Est.  | Pub. release.|
@@ -91,7 +93,8 @@ Language used shall be Solidity, and RSK VM is fully compatible with Ethereum VM
 
 Docs
  * https://faq.rsk.co/en/main/
+ * https://github.com/rsksmart/rskj/wiki
+ * http://media.rsk.co/
     
     
-# License
-[WTFPL](http://www.wtfpl.net/txt/copying/)
+
