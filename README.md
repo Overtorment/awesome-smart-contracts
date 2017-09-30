@@ -35,8 +35,12 @@ Majority of token sales go on Ethereum platform,  with recently standartized tok
 
 Founded by son of russian expats in Canada Vitalik Buterin. Incorporated in Switzerland.
 
-Solidity docs
+Docs
   * [solidity.readthedocs.io](http://solidity.readthedocs.io)
+  * [Awesome Ethereum list](https://github.com/void4/awesome-ethereum)
+
+
+
 
 Contract examples: 
 * https://github.com/fivedogit/solidity-baby-steps
