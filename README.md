@@ -7,8 +7,8 @@ This document is licensed [WTFPL](http://www.wtfpl.net/txt/copying/)
 
 | Platform name                          | Contract language                                           | Released |Origin | Inc. in     | Est.  | Pub. release.|
 |----------------------------------------|:-----------------------------------------------------------:|---------:|------:|------------:|------:|--------------|
-| [Ethereum](https://www.ethereum.org/)  |  [Solidity](http://solidity.readthedocs.io)                 | Yes      |RU/CA  |Switzerland  |  
-| [Ethereum Classic](https://ethereumclassic.github.io/)|  Solidity                                    | Yes      | ^^^   | no          |
+| [Ethereum](https://www.ethereum.org/)  |  [Solidity](http://solidity.readthedocs.io)                 | Yes      |RU/CA  |Switzerland  |2014.04|2015.07       |
+| [Ethereum Classic](https://ethereumclassic.github.io/)|  Solidity                                    | Yes      | ^^^   | no          | ^^^   | ^^^          |
 | [Neo](https://neo.org/)                |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes   | China | China       |2014.06|2016.10       |
 | [Nem](https://nem.io/)                 |  ?                                                          | ?        |
 | Exonum                                 |  ?                                                          | Yes      |
@@ -22,7 +22,7 @@ This document is licensed [WTFPL](http://www.wtfpl.net/txt/copying/)
 | BitShares                              |  ?                                                          | Yes      |    
 | hyperledger                            |  ?                                                          | ?        |    
 | quorum                                 |  ?                                                          | ?        |    
-| [Rootstock](http://www.rsk.co/)        |  Solidity                                                   | no       |Argentina|            |2015.11|
+| [Rootstock](http://www.rsk.co/)        |  Solidity                                                   | no       |Argentina|Argentina   |2015.11|
 |[Cardano](https://cardanofoundation.org)|  Plutus (Haskell inspired)                                  | no       |HK       |Switzerland |2014.12|
 
 
