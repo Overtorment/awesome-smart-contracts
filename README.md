@@ -99,7 +99,7 @@ Docs:
 ## Cardano
 
 Cardano claims it is the first Blockchain to use a provably secure, proof of stake algorithm.
-Cardano is designed in separate layers, where the 1st layer (PoS blockchain) is already live (as of 2017.10),
+Cardano is designed in separate layers, where the 1st layer (aka Settlement Layer; PoS blockchain) is already live (as of 2017.10),
 and internal currency (Ada) being added to exchanges.
 
 Second (aka computational) layer will run smart contracts using a Haskell-inspired scripting language, called Plutus,
