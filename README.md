@@ -5,11 +5,11 @@ Curated list of platforms to run Smart Contracts.
 This document is licensed [WTFPL](http://www.wtfpl.net/txt/copying/)
 
 
-| Platform name                          | Contract language                                           | Released |Origin | Inc. in          | Est.  | Pub. release.|
-|----------------------------------------|:-----------------------------------------------------------:|---------:|------:|-----------------:|------:|--------------|
-| [Ethereum](https://www.ethereum.org/)  |  [Solidity](http://solidity.readthedocs.io)                 | Yes      |RU/CA  |Zug, Switzerland  |  
-| [Ethereum Classic](https://ethereumclassic.github.io/)|  Solidity                                    | Yes      | ^^^   | no               |
-| [Neo](https://neo.org/)                |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes   | China | China            |2014.06|2016.10       |
+| Platform name                          | Contract language                                           | Released |Origin | Inc. in     | Est.  | Pub. release.|
+|----------------------------------------|:-----------------------------------------------------------:|---------:|------:|------------:|------:|--------------|
+| [Ethereum](https://www.ethereum.org/)  |  [Solidity](http://solidity.readthedocs.io)                 | Yes      |RU/CA  |Switzerland  |  
+| [Ethereum Classic](https://ethereumclassic.github.io/)|  Solidity                                    | Yes      | ^^^   | no          |
+| [Neo](https://neo.org/)                |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes   | China | China       |2014.06|2016.10       |
 | [Nem](https://nem.io/)                 |  ?                                                          | ?        |
 | Exonum                                 |  ?                                                          | Yes      |
 | Qtum                                   |  ?                                                          | ?        |
@@ -22,7 +22,8 @@ This document is licensed [WTFPL](http://www.wtfpl.net/txt/copying/)
 | BitShares                              |  ?                                                          | Yes      |    
 | hyperledger                            |  ?                                                          | ?        |    
 | quorum                                 |  ?                                                          | ?        |    
-| [Rootstock](http://www.rsk.co/)        |  Solidity                                                   | no       |Argentina|                 |2015.11|
+| [Rootstock](http://www.rsk.co/)        |  Solidity                                                   | no       |Argentina|            |2015.11|
+|[Cardano](https://cardanofoundation.org)|  Plutus (Haskell inspired)                                  | no       |HK       |Switzerland |2014.12|
 
 
 
@@ -37,12 +38,9 @@ Majority of token sales go on Ethereum platform,  with recently standartized tok
 
 Founded by son of russian expats in Canada Vitalik Buterin. Incorporated in Switzerland.
 
-Docs
+Docs:
   * [solidity.readthedocs.io](http://solidity.readthedocs.io)
   * [Awesome Ethereum list](https://github.com/void4/awesome-ethereum)
-
-
-
 
 Contract examples: 
 * https://github.com/fivedogit/solidity-baby-steps
@@ -67,7 +65,7 @@ often compared to Ethereum.
 
 First batch on supported languages is ready for production use. Second is partially ready, and third is planned.
 
-Docs
+Docs:
  * [docs.neo.org/en-us/sc/introduction.html](http://docs.neo.org/en-us/sc/introduction.html)
  
 Contract examples:
@@ -91,10 +89,24 @@ one of the closest to completion.
 
 Language used shall be Solidity, and RSK VM is fully compatible with Ethereum VM.
 
-Docs
+Docs:
  * https://faq.rsk.co/en/main/
  * https://github.com/rsksmart/rskj/wiki
  * http://media.rsk.co/
     
     
 
+## Cardano
+
+Cardano claims it is the first Blockchain to use a provably secure, proof of stake algorithm.
+Cardano is designed in separate layers, where the 1st layer (PoS blockchain) is already live (as of 2017.10),
+and internal currency (Ada) being added to exchanges.
+
+Second (aka computational) layer will run smart contracts using a Haskell-inspired scripting language, called Plutus,
+and is scheduled to release in first quarter 2018.
+
+Docs:
+  * https://cardanodocs.com/technical/plutus/introduction/  
+    
+Contract examples:
+  * https://cardanodocs.com/technical/plutus/examples/
