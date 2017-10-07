@@ -7,7 +7,7 @@ This document is licensed [WTFPL](http://www.wtfpl.net/txt/copying/)
 
 | Platform name                          | Contract language                                           | Released |Origin | Inc. in     | Est.  | Pub. release.|
 |----------------------------------------|:-----------------------------------------------------------:|---------:|------:|------------:|------:|--------------|
-| [Ethereum](https://www.ethereum.org/)  |  [Solidity](http://solidity.readthedocs.io)                 | Yes      |RU/CA  |Switzerland  |2014.04|2015.07       |
+| [Ethereum](https://www.ethereum.org/)  |  [Solidity](http://solidity.readthedocs.io)                 | Yes      | CA    |Switzerland  |2014.04|2015.07       |
 | [Ethereum Classic](https://ethereumclassic.github.io/)|  Solidity                                    | Yes      | ^^^   | no          | ^^^   | ^^^          |
 | [Neo](https://neo.org/)                |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes   | China | China       |2014.06|2016.10       |
 | [Nem](https://nem.io/)                 |  ?                                                          | ?        |
@@ -23,7 +23,7 @@ This document is licensed [WTFPL](http://www.wtfpl.net/txt/copying/)
 | hyperledger                            |  ?                                                          | ?        |    
 | quorum                                 |  ?                                                          | ?        |    
 | [Rootstock](http://www.rsk.co/)        |  Solidity                                                   | no       |Argentina|Argentina   |2015.11|
-|[Cardano](https://cardanofoundation.org)|  Plutus (Haskell inspired)                                  | no       |HK       |Switzerland |2014.12|
+|[Cardano](https://cardanofoundation.org)|  Plutus (Haskell inspired)                                  | no       |HK       |Switzerland |2015   |
 
 
 
@@ -106,6 +106,7 @@ Second (aka computational) layer will run smart contracts using a Haskell-inspir
 and is scheduled to release in first quarter 2018.
 
 Docs:
+  * https://whycardano.com/
   * https://cardanodocs.com/technical/plutus/introduction/  
     
 Contract examples:
