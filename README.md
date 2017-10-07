@@ -105,6 +105,8 @@ and internal currency (Ada) being added to exchanges.
 Second (aka computational) layer will run smart contracts using a Haskell-inspired scripting language, called Plutus,
 and is scheduled to release in first quarter 2018.
 
+Governed by The Cardano Foundation, IOHK and Emurgo.
+
 Docs:
   * https://whycardano.com/
   * https://cardanodocs.com/technical/plutus/introduction/  
