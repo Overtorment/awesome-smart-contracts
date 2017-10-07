@@ -11,7 +11,7 @@ This document is licensed [WTFPL](http://www.wtfpl.net/txt/copying/)
 | [Ethereum Classic](https://ethereumclassic.github.io/)|  Solidity                                    | Yes      | ^^^   | no          | ^^^   | ^^^          |
 | [Neo](https://neo.org/)                |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes   | China | China       |2014.06|2016.10       |
 | [Nem](https://nem.io/)                 |  ?                                                          | ?        |
-| Exonum                                 |  ?                                                          | Yes      |
+| [Exonum](https://exonum.com)           |  Rust. Java bindings TBD                                    | Yes      |       |Netherlands  |       |2017.07       |
 | Qtum                                   |  ?                                                          | ?        |
 | [Tezos](https://www.tezos.com)         |  Michelson                                                  | no       |
 | [EOS](https://eos.io/)                 |  Web Assembly (aka WASM) ?                                  | no       |    
@@ -113,3 +113,33 @@ Docs:
     
 Contract examples:
   * https://cardanodocs.com/technical/plutus/examples/
+
+
+## Exonum
+
+Exonum is an extensible open-source framework for creating blockchain applications. It is designed to 
+allow you, your company or your government to build a tailor-cut private or permissioned blockchain.  
+Thus, there's no public Exonum network or traded Exonum tokens.
+
+Exonum is developed and supported by the Bitfury Group.
+
+```
+Services are the main extension point for the Exonum framework. By itself, Exonum provides building 
+blocks for creating blockchains; it does not come with any concrete transaction processing rules. 
+This is where services come into play. If you want to create an instance of the Exonum blockchain, 
+services are the way to go.
+```
+
+```
+Endpoints defined by services fulfill the same role as smart contracts in other blockchain platforms. 
+They define business logic of the blockchain, allow to retrieve data from the blockchain, and can be 
+reused across different projects. Partial analogies for this execution model are endpoints of RESTful 
+web services and stored procedures for DBMSs.
+```
+
+Docs:
+  * https://exonum.com/doc/architecture/services/
+  * https://exonum.com/doc/get-started/design-overview/#smart-contracting
+  
+Contract examples:
+  * https://exonum.com/doc/get-started/create-service/
