@@ -5,25 +5,26 @@ Curated list of platforms to run Smart Contracts.
 This document is licensed [WTFPL](http://www.wtfpl.net/txt/copying/)
 
 
-| Platform name                          | Contract language                                           | Released |Origin | Inc. in     | Est.  | Pub. release.|
-|----------------------------------------|:-----------------------------------------------------------:|---------:|------:|------------:|------:|--------------|
-| [Ethereum](https://www.ethereum.org/)  |  [Solidity](http://solidity.readthedocs.io)                 | Yes      | CA    |Switzerland  |2014.04|2015.07       |
-| [Ethereum Classic](https://ethereumclassic.github.io/)|  Solidity                                    | Yes      | ^^^   | no          | ^^^   | ^^^          |
-| [Neo](https://neo.org/)                |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes   | China | China       |2014.06|2016.10       |
-| [Nem](https://nem.io/)                 |  ?                                                          | ?        |
-| [Exonum](https://exonum.com)           |  Rust. Java bindings TBD                                    | Yes      |       |Netherlands  |       |2017.07       |
-| Qtum                                   |  ?                                                          | ?        |
-| [Tezos](https://www.tezos.com)         |  Michelson                                                  | no       |
-| [EOS](https://eos.io/)                 |  Web Assembly (aka WASM) ?                                  | no       |    
-| [Urbit](https://urbit.org/)            |  Hoon                                                       | Yes      |    
-| Waves                                  |  ?                                                          | Yes      |    
-| NXT                                    |  ?                                                          | Yes      |    
-| Counterparty                           |  ?                                                          | Yes      |    
-| BitShares                              |  ?                                                          | Yes      |    
-| hyperledger                            |  ?                                                          | ?        |    
-| quorum                                 |  ?                                                          | ?        |    
-| [Rootstock](http://www.rsk.co/)        |  Solidity                                                   | no       |Argentina|Argentina   |2015.11|
-|[Cardano](https://cardanofoundation.org)|  Plutus (Haskell inspired)                                  | no       |HK       |Switzerland |2015   |
+| Platform name                          | Contract language                                           | Live? |Origin | Inc. in     | Est.  | Pub. rel.|
+|----------------------------------------|:-----------------------------------------------------------:|------:|------:|------------:|------:|----------|
+| [Ethereum](https://www.ethereum.org/)  |  [Solidity](http://solidity.readthedocs.io)                 | Yes   | CA    |Switzerland  |2014.04|2015.07   |
+| [Ethereum Classic](https://ethereumclassic.github.io/)|  Solidity                                    | Yes   | ^^^   | no          | ^^^   | ^^^      |
+| [Neo](https://neo.org/)                |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes| China | China       |2014.06|2016.10   |
+| [Nem](https://nem.io/)                 |  ?                                                          | ?     |
+| [Exonum](https://exonum.com)           |  Rust. Java bindings TBD                                    | Yes   | UA    |Netherlands  |       |2017.07   |
+| Qtum                                   |  ?                                                          | ?     |
+| [Tezos](https://www.tezos.com)         |  Michelson                                                  | no    |
+| [EOS](https://eos.io/)                 |  Web Assembly (aka WASM) ?                                  | no    |    
+| [Urbit](https://urbit.org/)            |  Hoon                                                       | Yes   |    
+| Waves                                  |  ?                                                          | Yes   |    
+| NXT                                    |  ?                                                          | Yes   |    
+| Counterparty                           |  ?                                                          | Yes   |    
+| [BitShares](https://bitshares.org/)    |  ?                                                          | Yes   |    
+| hyperledger                            |  ?                                                          | ?     |    
+| quorum                                 |  ?                                                          | ?     |    
+| [Rootstock](http://www.rsk.co/)        |  Solidity                                                   | no    |Argentina|Argentina   |2015.11|
+|[Cardano](https://cardanofoundation.org)|  Plutus (Haskell inspired)                                  | no    |HK       |Switzerland |2015   |
+| [Universa](https://www.universa.io/)   |
 
 
 
@@ -143,3 +144,9 @@ Docs:
   
 Contract examples:
   * https://exonum.com/doc/get-started/create-service/
+  
+  
+## BitShares
+
+BitShares 2.0 is the first application of Graphene technology.
+
