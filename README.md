@@ -64,7 +64,7 @@ Not incorporated.
 NEO (formerly Antshares) is a Chinese answer to Ethereum. Neo is a major player in SmartContracts world and 
 often compared to Ethereum.
 
-First batch on supported languages is ready for production use. Second is partially ready, and third is planned.
+First batch of supported languages is ready for production use. Second is partially ready, and third is planned.
 
 Docs:
  * [docs.neo.org/en-us/sc/introduction.html](http://docs.neo.org/en-us/sc/introduction.html)
