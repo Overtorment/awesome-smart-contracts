@@ -7,12 +7,12 @@ This document is licensed [WTFPL](http://www.wtfpl.net/txt/copying/)
 
 | Platform name                          | Contract language                                           | Live? |Origin | Inc. in     | Est.  | Pub. rel.|
 |----------------------------------------|:-----------------------------------------------------------:|------:|------:|------------:|------:|----------|
-| [Ethereum](https://www.ethereum.org/)  |  [Solidity](http://solidity.readthedocs.io)                 | Yes   | CA    |Switzerland  |2014.04|2015.07   |
+| [Ethereum](https://www.ethereum.org/)  |  Solidity                                                   | Yes   | CA    |Switzerland  |2014.04|2015.07   |
 | [Ethereum Classic](https://ethereumclassic.github.io/)|  Solidity                                    | Yes   | ^^^   | no          | ^^^   | ^^^      |
 | [Neo](https://neo.org/)                |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes| China | China       |2014.06|2016.10   |
 | [Nem](https://nem.io/)                 |  ?                                                          | ?     |
 | [Exonum](https://exonum.com)           |  Rust. Java bindings TBD                                    | Yes   | UA    |Netherlands  |       |2017.07   |
-| Qtum                                   |  ?                                                          | ?     |
+| [Qtum](https://qtum.org/)              |  Solidity                                                   | Yes   |Singapore|Singapore  |2016   |2017.09   |
 | [Tezos](https://www.tezos.com)         |  Michelson                                                  | no    |
 | [EOS](https://eos.io/)                 |  Web Assembly (aka WASM) ?                                  | no    |    
 | [Urbit](https://urbit.org/)            |  Hoon                                                       | Yes   |    
@@ -149,4 +149,17 @@ Contract examples:
 ## BitShares
 
 BitShares 2.0 is the first application of Graphene technology.
+
+
+## Qtum
+
+Qtum is a hybrid blockchain application platform. Qtum’s core technology combines a fork of bitcoin core, 
+an Account Abstraction Layer allowing for multiple Virtual Machines including the Ethereum Virtual Machine (EVM) and Proof-of-Stake consensus.
+
+Qtum smart contracts aim to be compatible with existing Ethereum contracts.
+
+Main selling points of Qtum is: lite mobile wallets that can execute smart contracts; compatibility with existing bitcoin infrastructure/tools
+(since Qtum forked off bitcoin, and aims to adopt most of bitcoin BIPs).
+
+Qtum started in 2016, in 2017.03 Qtum had a crowdsale distributng their tokens. Main net launched on 2017.10.
 
