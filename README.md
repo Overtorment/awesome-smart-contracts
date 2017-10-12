@@ -16,15 +16,16 @@ This document is licensed [WTFPL](http://www.wtfpl.net/txt/copying/)
 | [Tezos](https://www.tezos.com)         |  Michelson                                                  | no    |
 | [EOS](https://eos.io/)                 |  Web Assembly (aka WASM) ?                                  | no    |    
 | [Urbit](https://urbit.org/)            |  Hoon                                                       | Yes   |    
-| Waves                                  |  ?                                                          | Yes   |    
+| [Waves](https://wavesplatform.com/)    |  _NA_                                                       | Yes   |RU     |  ?          |2016   |2016.11   |    
 | NXT                                    |  ?                                                          | Yes   |    
 | Counterparty                           |  ?                                                          | Yes   |    
 | [BitShares](https://bitshares.org/)    |  ?                                                          | Yes   |    
 | hyperledger                            |  ?                                                          | ?     |    
 | quorum                                 |  ?                                                          | ?     |    
-| [Rootstock](http://www.rsk.co/)        |  Solidity                                                   | no    |Argentina|Argentina   |2015.11|
-|[Cardano](https://cardanofoundation.org)|  Plutus (Haskell inspired)                                  | no    |HK       |Switzerland |2015   |
+| [Rootstock](http://www.rsk.co/)        |  Solidity                                                   | no    |Argentina|Argentina  |2015.11|
+|[Cardano](https://cardanofoundation.org)|  Plutus (Haskell inspired)                                  | no    |HK       |Switzerland|2015   |
 | [Universa](https://www.universa.io/)   |
+| OmniLayer                              |
 
 
 
@@ -163,3 +164,16 @@ Main selling points of Qtum is: lite mobile wallets that can execute smart contr
 
 Qtum started in 2016, in 2017.03 Qtum had a crowdsale distributng their tokens. Main net launched on 2017.10.
 
+
+
+## Waves
+
+Waves is a PoS blockchain specifically designed to issue tokens (and run ICOs). Some of the largest ICOs were run on Waves Platform. 
+Users can also lease funds to miners o generate interest.  There's also a decentralized exchange (DEX) with front-run protection, 
+and gateways to common fiat currencies.
+
+Smart contracts are planned (as stated on website), but not yet supported. 
+
+Docs:
+  * https://github.com/wavesplatform/Waves/wiki/Waves-Node-REST-API
+  * https://github.com/wavesplatform/Waves/wiki/Matcher
