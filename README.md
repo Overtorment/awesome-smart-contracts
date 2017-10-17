@@ -2,8 +2,14 @@
 
 Curated list of platforms to run Smart Contracts.
 
+### License
 This document is licensed [WTFPL](http://www.wtfpl.net/txt/copying/)
 
+### Contribute!
+Share your knowledge. [Contributing guide](CONTRIBUTING.md)
+
+
+## Platforms list
 
 | Platform name                          | Contract language                                           | Live? |Origin | Inc. in     | Est.  | Pub. rel.|
 |----------------------------------------|:-----------------------------------------------------------:|------:|------:|------------:|------:|----------|
@@ -26,6 +32,7 @@ This document is licensed [WTFPL](http://www.wtfpl.net/txt/copying/)
 |[Cardano](https://cardanofoundation.org)|  Plutus (Haskell inspired)                                  | no    |HK       |Switzerland|2015   |
 | [Universa](https://www.universa.io/)   |
 | OmniLayer                              |
+|[Corda](https://www.corda.net/)         |
 
 
 
