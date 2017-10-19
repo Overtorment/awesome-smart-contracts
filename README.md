@@ -2,6 +2,18 @@
 
 Curated list of platforms to run Smart Contracts.
 
+### What is Smart Contract?
+
+```
+"New institutions, and new ways to formalize the relationships that make up these institutions, are now 
+made possible by the digital revolution. I call these new contracts "smart", because they are far more 
+functional than their inanimate paper-based ancestors. No use of artificial intelligence is implied. 
+A smart contract is a set of promises, specified in digital form, including protocols within which the 
+parties perform on these promises."
+
+-Nick Szabo, 1996
+```
+
 ### License
 This document is licensed [WTFPL](http://www.wtfpl.net/txt/copying/)
 
@@ -16,9 +28,9 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 | [Ethereum](https://www.ethereum.org/)  |  Solidity                                                   | Yes   | CA    |Switzerland  |2014.04|2015.07   |
 | [Ethereum Classic](https://ethereumclassic.github.io/)|  Solidity                                    | Yes   | ^^^   | no          | ^^^   | ^^^      |
 | [Neo](https://neo.org/)                |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes| China | China       |2014.06|2016.10   |
-| [Ubiq](http://www.ubiqsmart.com/)      |  Solidity                                                   | Yes 
+| [Ubiq](http://www.ubiqsmart.com/)      |  Solidity                                                   | Yes   | CA    | CA ?        |       |2017.01   |
 | [Nem](https://nem.io/)                 |  ?                                                          | ?     |
-| [Exonum](https://exonum.com)           |  Rust. Java bindings TBD                                    | Yes   | UA    |Netherlands  |       |2017.07   |
+| [Exonum](https://exonum.com)           |  Rust. Java bindings TBD                                    | No    | UA    |Netherlands  |       |2017.07   |
 | [Qtum](https://qtum.org/)              |  Solidity                                                   | Yes   |Singapore|Singapore  |2016   |2017.09   |
 | [Tezos](https://www.tezos.com)         |  Michelson                                                  | no    |
 | [EOS](https://eos.io/)                 |  Web Assembly (aka WASM) ?                                  | no    |    
@@ -82,28 +94,10 @@ Contract examples:
  * https://github.com/neo-project/examples-csharp
 
 ## Ubiq
-#### Smart contracts for an automated world
-[Ubiq](https://ubiqsmart.com) is a decentralized platform which allows the creation and implementation of smart contracts and decentralized applications. 
-Built upon an improved Ethereum codebase, the Ubiq blockchain acts as a large globally distributed ledger and supercomputer, 
-allowing developers to create decentralized and automated solutions to thousands of tasks which today are carried out 
-by third party intermediaries.
 
-Wallets
-* [Pyrus (Browser)](https://ubiqsmart.com/#wallets)
-* [Fusion (Desktop)](https://ubiqsmart.com/#wallets)
+Ubiq functions as a fork of Ethereum codebase, with several adjustmens, fully compatible with EVM and Solidity.
 
- Join the Discussion
- * [Blog](https://blog.ubiqsmart.com/)
- * [Discord](https://discord.gg/HF6vEGF)
- * [Twitter](https://twitter.com/ubiqsmart)
- * [Youtube](https://www.youtube.com/channel/UCaKJfiYPY-gWC5932p23kyw/videos)
- * [Reddit](https://www.reddit.com/r/Ubiq/)
- * [Bitcointalk](https://bitcointalk.org/index.php?topic=1763606.0)
-  
- Past Events
- * [A.I Toronto Conference - March 29, 2017](http://www.aitoronto.org/)
- * [Fintech Nigeria Forum - April 24, 2017](http://www.fintechnigeria.org/)
- * [Fintech Conference Vancouver - May 3, 2017](http://www.fintech2017.com/)
+Governed by Ubiq Technology Inc.
 
 ## Urbit
 
