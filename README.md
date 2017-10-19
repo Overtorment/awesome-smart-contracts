@@ -81,7 +81,7 @@ Docs:
 Contract examples:
  * https://github.com/neo-project/examples-csharp
 
-## UBIQ
+## Ubiq
 #### Smart contracts for an automated world
 [Ubiq](https://ubiqsmart.com) is a decentralized platform which allows the creation and implementation of smart contracts and decentralized applications. 
 Built upon an improved Ethereum codebase, the Ubiq blockchain acts as a large globally distributed ledger and supercomputer, 
