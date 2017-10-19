@@ -16,6 +16,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 | [Ethereum](https://www.ethereum.org/)  |  Solidity                                                   | Yes   | CA    |Switzerland  |2014.04|2015.07   |
 | [Ethereum Classic](https://ethereumclassic.github.io/)|  Solidity                                    | Yes   | ^^^   | no          | ^^^   | ^^^      |
 | [Neo](https://neo.org/)                |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes| China | China       |2014.06|2016.10   |
+| [UBIQ](http://www.ubiqsmart.com/)      |  Solidity                                                   | Yes 
 | [Nem](https://nem.io/)                 |  ?                                                          | ?     |
 | [Exonum](https://exonum.com)           |  Rust. Java bindings TBD                                    | Yes   | UA    |Netherlands  |       |2017.07   |
 | [Qtum](https://qtum.org/)              |  Solidity                                                   | Yes   |Singapore|Singapore  |2016   |2017.09   |
@@ -79,6 +80,30 @@ Docs:
  
 Contract examples:
  * https://github.com/neo-project/examples-csharp
+
+## UBIQ
+#### Smart contracts for an automated world
+[Ubiq](https://ubiqsmart.com) is a decentralized platform which allows the creation and implementation of smart contracts and decentralized applications. 
+Built upon an improved Ethereum codebase, the Ubiq blockchain acts as a large globally distributed ledger and supercomputer, 
+allowing developers to create decentralized and automated solutions to thousands of tasks which today are carried out 
+by third party intermediaries.
+
+Wallets
+* [Pyrus (Browser)](https://ubiqsmart.com/#wallets)
+* [Fusion (Desktop)](https://ubiqsmart.com/#wallets)
+
+ Join the Discussion
+ * [Blog](https://blog.ubiqsmart.com/)
+ * [Discord](https://discord.gg/HF6vEGF)
+ * [Twitter](https://twitter.com/ubiqsmart)
+ * [Youtube](https://www.youtube.com/channel/UCaKJfiYPY-gWC5932p23kyw/videos)
+ * [Reddit](https://www.reddit.com/r/Ubiq/)
+ * [Bitcointalk](https://bitcointalk.org/index.php?topic=1763606.0)
+  
+ Past Events
+ * [A.I Toronto Conference - March 29, 2017](http://www.aitoronto.org/)
+ * [Fintech Nigeria Forum - April 24, 2017](http://www.fintechnigeria.org/)
+ * [Fintech Conference Vancouver - May 3, 2017](http://www.fintech2017.com/)
 
 ## Urbit
 
