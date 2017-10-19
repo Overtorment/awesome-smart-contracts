@@ -13,6 +13,19 @@ parties perform on these promises."
 
 -Nick Szabo, 1996
 ```
+```
+Smart contracts are contracts whose terms are encoded in  computer language instead of legal language. 
+Smart contracts can be executed by a computing network such as RSK, so that the terms of the contracts 
+are automatically enforced by a protocol that all nodes in the network follow.
+
+A smart contract can be fully autonomous if all the objects referred (such as currency, payments, 
+obligations, property titles, assets, licenses) have a digital representation in the platform. When 
+there is no such digital representation for an object, a smart contract can also refer to itself and 
+react to changes in its state though special gateway nodes called oracles -that provide external 
+information to the blockchain.
+
+Source: https://faq.rsk.co/en/main/
+```
 
 ### License
 This document is licensed [WTFPL](http://www.wtfpl.net/txt/copying/)
