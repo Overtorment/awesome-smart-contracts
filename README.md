@@ -16,7 +16,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 | [Ethereum](https://www.ethereum.org/)  |  Solidity                                                   | Yes   | CA    |Switzerland  |2014.04|2015.07   |
 | [Ethereum Classic](https://ethereumclassic.github.io/)|  Solidity                                    | Yes   | ^^^   | no          | ^^^   | ^^^      |
 | [Neo](https://neo.org/)                |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes| China | China       |2014.06|2016.10   |
-| [UBIQ](http://www.ubiqsmart.com/)      |  Solidity                                                   | Yes 
+| [Ubiq](http://www.ubiqsmart.com/)      |  Solidity                                                   | Yes 
 | [Nem](https://nem.io/)                 |  ?                                                          | ?     |
 | [Exonum](https://exonum.com)           |  Rust. Java bindings TBD                                    | Yes   | UA    |Netherlands  |       |2017.07   |
 | [Qtum](https://qtum.org/)              |  Solidity                                                   | Yes   |Singapore|Singapore  |2016   |2017.09   |
