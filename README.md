@@ -19,10 +19,7 @@ Smart contracts can be executed by a computing network such as RSK, so that the 
 are automatically enforced by a protocol that all nodes in the network follow.
 
 A smart contract can be fully autonomous if all the objects referred (such as currency, payments, 
-obligations, property titles, assets, licenses) have a digital representation in the platform. When 
-there is no such digital representation for an object, a smart contract can also refer to itself and 
-react to changes in its state though special gateway nodes called oracles -that provide external 
-information to the blockchain.
+obligations, property titles, assets, licenses) have a digital representation in the platform. 
 
 Source: https://faq.rsk.co/en/main/
 ```
@@ -59,6 +56,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 | [Universa](https://www.universa.io/)   |
 | OmniLayer                              |
 |[Corda](https://www.corda.net/)         |
+|[Lisk](https://lisk.io/)                |  Javascript
 
 
 
