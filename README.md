@@ -57,6 +57,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 | OmniLayer                              |
 |[Corda](https://www.corda.net/)         |
 |[Lisk](https://lisk.io/)                |  Javascript
+|[Bitcoin](https://docs.ivy-lang.org)   |  Ivy-lang                                                   | Yes   | USA     | USA       |2017.12|2017.12   |
 
 
 
@@ -214,3 +215,13 @@ Smart contracts are planned (as stated on website), but not yet supported.
 Docs:
   * https://github.com/wavesplatform/Waves/wiki/Waves-Node-REST-API
   * https://github.com/wavesplatform/Waves/wiki/Matcher
+
+## Ivy for Bitcoin
+
+Ivy for Bitcoin: a smart contract language that compiles to Bitcoin Script
+
+Docs:
+* https://blog.chain.com/ivy-for-bitcoin-a-smart-contract-language-that-compiles-to-bitcoin-script-bec06377141a
+* https://ivy-lang.org/bitcoin
+* https://docs.ivy-lang.org/bitcoin/
+
