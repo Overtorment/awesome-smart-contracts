@@ -40,7 +40,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 |[Cardano](https://cardanofoundation.org)|  Plutus (Haskell inspired)                                  | no    |HK       |Switzerland|2015   |
 | Counterparty                           |  ?                                                          | Yes   |    
 |[Corda](https://www.corda.net/)         |
-| DFINITY                          | Ethereum compatible (aka Solidity, Serpent, etc.)                                           | No |  |  |   |  |
+| [DFINITY](https://dfinity.org/)                          | Ethereum compatible (aka Solidity, Serpent, etc.)                                           | No |  |  |   |  |
 | [EOS](https://eos.io/)                 |  Web Assembly (aka WASM) ?                                  | no    |    
 | [Ethereum](https://www.ethereum.org/)  |  Solidity                                                   | Yes   | CA    |Switzerland  |2014.04|2015.07   |
 | [Ethereum Classic](https://ethereumclassic.github.io/)|  Solidity                                    | Yes   | ^^^   | no          | ^^^   | ^^^      |
