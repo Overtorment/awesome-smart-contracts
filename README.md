@@ -54,6 +54,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 | [Neo](https://neo.org/)                |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes| China | China       |2014.06|2016.10   |
 | NXT                                    |  ?                                                          | Yes   |    
 | OmniLayer                              |
+| [POA](https://poa.network/)                          | ETH compatible languages                                           | No | ? | ?     | ?  | Q3 2018 |
 | [Qtum](https://qtum.org/)              |  Solidity                                                   | Yes   |Singapore|Singapore  |2016   |2017.09   |
 | quorum                                 |  ?                                                          | ?     |    
 | [Radix](https://www.radixdlt.com/) | Scrypto (Based on JavaScript/TypeScript) | Yes | UK | UK     | 2018  | |
