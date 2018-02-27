@@ -40,6 +40,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 |----------------------------------------|:-----------------------------------------------------------:|------:|------:|------------:|------:|----------|
 |[Bitcoin](https://docs.ivy-lang.org)   |  Ivy-lang                                                   | Yes   | USA     | USA       |2017.12|2017.12   |
 | [BitShares](https://bitshares.org/)    |  ?                                                          | Yes   |    
+|[Byteball](https://byteball.org)  | JSON | Yes | RU | | | |
 |[Cardano](https://cardanofoundation.org)|  Plutus (Haskell inspired)                                  | no    |HK       |Switzerland|2015   |
 | Counterparty                           |  ?                                                          | Yes   |    
 |[Corda](https://www.corda.net/)         |
