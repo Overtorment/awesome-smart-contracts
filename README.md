@@ -44,7 +44,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 | Counterparty                           |  ?                                                          | Yes   |    
 |[Corda](https://www.corda.net/)         |
 | [DFINITY](https://dfinity.org/)                          | Ethereum compatible (aka Solidity, Serpent, etc.)                                           | No |  |  |   |  |
-| [EOS](https://eos.io/)                 |  Web Assembly (aka WASM) ?                                  | no    |    
+| [EOS](https://eos.io/)                 |  C/C++ (compiles to WASM)                                   | no    |    
 | [Ethereum](https://www.ethereum.org/)  |  Solidity                                                   | Yes   | CA    |Switzerland  |2014.04|2015.07   |
 | [Ethereum Classic](https://ethereumclassic.github.io/)|  Solidity                                    | Yes   | ^^^   | no          | ^^^   | ^^^      |
 | [Exonum](https://exonum.com)           |  Rust. Java bindings TBD                                    | No    | UA    |Netherlands  |       |2017.07   |
