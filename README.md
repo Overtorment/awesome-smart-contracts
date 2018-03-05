@@ -52,7 +52,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 |[Lisk](https://lisk.io/)                |  Javascript
 | [Nem](https://nem.io/)                 |  ?                                                          | ?     |
 | [Neo](https://neo.org/)                |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes| China | China       |2014.06|2016.10   |
-| [Neblio](https://nebl.io)              |  REST-API,Python,JS,.NET(C# & VB.NET)Objective-C,Java,Node.js,GO,PHP | Yes| USA | USA       |2017.01|2017.07   |
+| [Neblio](https://nebl.io)              |  REST-API, Python,JS, .NET(C# & VB.NET), Objective-C, Java, Node.js, GO, PHP | Yes| USA | USA       |2017.01|2017.07   |
 | NXT                                    |  ?                                                          | Yes   |    
 | OmniLayer                              |
 | [Qtum](https://qtum.org/)              |  Solidity                                                   | Yes   |Singapore|Singapore  |2016   |2017.09   |
