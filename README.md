@@ -233,6 +233,7 @@ consultancy service provider, Node deployment base as well as a private blockcha
 Neblio uses RESTful APIs to give maximum compatibility to almost any language.
 
 Docs:
-https://nebl.io/wp-content/uploads/2017/07/NeblioWhitepaper.pdf
-https://github.com/NeblioTeam
-https://neblio.wiki
+* https://nebl.io
+* https://nebl.io/wp-content/uploads/2017/07/NeblioWhitepaper.pdf
+* https://github.com/NeblioTeam
+* https://neblio.wiki
