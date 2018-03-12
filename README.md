@@ -55,6 +55,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 | [Neblio](https://nebl.io)              |  REST-API, Python,JS, .NET(C# & VB.NET), Objective-C, Java, Node.js, GO, PHP | Yes| USA | USA       |2017.01|2017.07   |
 | NXT                                    |  ?                                                          | Yes   |    
 | OmniLayer                              |
+| [POA](https://poa.network/)                          | ETH compatible languages                                           | No | ? | ?     | ?  | Q3 2018 |
 | [Qtum](https://qtum.org/)              |  Solidity                                                   | Yes   |Singapore|Singapore  |2016   |2017.09   |
 | quorum                                 |  ?                                                          | ?     |    
 | [Radix](https://www.radixdlt.com/) | Scrypto (Based on JavaScript/TypeScript) | Yes | UK | UK     | 2018  | |
