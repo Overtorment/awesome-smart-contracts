@@ -36,34 +36,34 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 
 ## Platforms list
 
-| Platform name                          | Contract language                                           | Live? |Origin | Inc. in     | Est.  | Pub. rel.|
-|----------------------------------------|:-----------------------------------------------------------:|------:|------:|------------:|------:|----------|
-|[Bitcoin](https://bitcoin.org/)         |  [Ivy-lang](https://docs.ivy-lang.org), [Balzac](https://blockchain.unica.it/balzac/docs/)                      | Yes   | USA     | USA       |2017.12|2017.12   |
-| [BitShares](https://bitshares.org/)    |  ?                                                          | Yes   |    
-|[Cardano](https://cardanofoundation.org)|  Plutus (Haskell inspired)                                  | no    |HK       |Switzerland|2015   |
-| Counterparty                           |  ?                                                          | Yes   |    
-|[Corda](https://www.corda.net/)         |
-| [DFINITY](https://dfinity.org/)                          | Ethereum compatible (aka Solidity, Serpent, etc.)                                           | No |  |  |   |  |
-| [EOS](https://eos.io/)                 |  C/C++ (compiles to WASM)                                   | no    |    
-| [Ethereum](https://www.ethereum.org/)  |  Solidity                                                   | Yes   | CA    |Switzerland  |2014.04|2015.07   |
-| [Ethereum Classic](https://ethereumclassic.github.io/)|  Solidity                                    | Yes   | ^^^   | no          | ^^^   | ^^^      |
-| [Exonum](https://exonum.com)           |  Rust. Java bindings TBD                                    | No    | UA    |Netherlands  |       |2017.07   |
-| hyperledger                            |  ?                                                          | ?     |    
-|[Lisk](https://lisk.io/)                |  Javascript
-| [Nem](https://nem.io/)                 |  ?                                                          | ?     |
-| [Neo](https://neo.org/)                |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes| China | China       |2014.06|2016.10   |
-| [Neblio](https://nebl.io)              |  REST-API, Python,JS, .NET(C# & VB.NET), Objective-C, Java, Node.js, GO, PHP | Yes| USA | USA       |2017.01|2017.07   |
-| NXT                                    |  ?                                                          | Yes   |    
-| OmniLayer                              |
-| [Qtum](https://qtum.org/)              |  Solidity                                                   | Yes   |Singapore|Singapore  |2016   |2017.09   |
-| quorum                                 |  ?                                                          | ?     |    
-| [Radix](https://www.radixdlt.com/) | Scrypto (Based on JavaScript/TypeScript) | Yes | UK | UK     | 2018  | |
-| [Rootstock](http://www.rsk.co/)        |  Solidity                                                   | no    |Argentina|Argentina  |2015.11|
-| [Tezos](https://www.tezos.com)         |  Michelson                                                  | no    |
-| [Ubiq](http://www.ubiqsmart.com/)      |  Solidity                                                   | Yes   | CA    | CA ?        |       |2017.01   |
-| [Universa](https://www.universa.io/)   |
-| [Urbit](https://urbit.org/)            |  Hoon                                                       | Yes   |    
-| [Waves](https://wavesplatform.com/)    |  _NA_                                                       | Yes   |RU     |  ?          |2016   |2016.11   | 
+| Platform name                          | Engine         | Contract language                                           | Live? |Origin | Inc. in     | Est.  | Pub. rel.|
+|----------------------------------------|----------------|:-----------------------------------------------------------:|------:|------:|------------:|------:|----------|
+| [Bitcoin](https://bitcoin.org/)        | Bitcoin script |  [Ivy-lang](https://docs.ivy-lang.org), [Balzac](https://blockchain.unica.it/balzac/docs/)           | Yes   | USA     | USA       |2017.12|2017.12   |
+| [BitShares](https://bitshares.org/)    | ?              |  ?                                                          | Yes   |    
+|[Cardano](https://cardanofoundation.org)| ?              |  Plutus (Haskell inspired)                                  | no    |HK       |Switzerland|2015   |
+| Counterparty                           | ?              |  ?                                                          | Yes   |    
+| [Corda](https://www.corda.net/)        | ?              |
+| [DFINITY](https://dfinity.org/)        | EVM?           | Ethereum compatible (aka Solidity, Serpent, etc.)                                           | No |  |  |   |  |
+| [EOS](https://eos.io/)                 | EVM / eWASM    |  C/C++ (compiles to WASM)                                   | no    |    
+| [Ethereum](https://www.ethereum.org/)  | EVM            |  Solidity                                                   | Yes   | CA    |Switzerland  |2014.04|2015.07   |
+| [Ethereum Classic](https://ethereumclassic.github.io/)| EVM |  Solidity                                              | Yes   | ^^^   | no          | ^^^   | ^^^      |
+| [Exonum](https://exonum.com)           | ?              |  Rust. Java bindings TBD                                    | No    | UA    |Netherlands  |       |2017.07   |
+| hyperledger                            | Sandbox        |  ?                                                          | ?     |    
+| [Lisk](https://lisk.io/)               | N/A            |  Javascript
+| [Nem](https://nem.io/)                 | Offchiain      |  ?                                                          | ?     |
+| [Neo](https://neo.org/)                | NeoVM          |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes| China | China       |2014.06|2016.10   |
+| [Neblio](https://nebl.io)              | ?              |  REST-API, Python,JS, .NET(C# & VB.NET), Objective-C, Java, Node.js, GO, PHP | Yes| USA | USA       |2017.01|2017.07   |
+| NXT                                    | ?              |  ?                                                          | Yes   |    
+| OmniLayer                              | ?              |
+| [Qtum](https://qtum.org/)              | EVM            |  Solidity                                                   | Yes   |Singapore|Singapore  |2016   |2017.09   |
+| quorum                                 | ?              |  ?                                                          | ?     |    
+| [Radix](https://www.radixdlt.com/)     | ?              | Scrypto (Based on JavaScript/TypeScript) | Yes | UK | UK     | 2018  | |
+| [Rootstock](http://www.rsk.co/)        | EVM            |  Solidity                                                   | no    |Argentina|Argentina  |2015.11|
+| [Tezos](https://www.tezos.com)         | ?              |  Michelson                                                  | no    |
+| [Ubiq](http://www.ubiqsmart.com/)      | EVM            |  Solidity                                                   | Yes   | CA    | CA ?        |       |2017.01   |
+| [Universa](https://www.universa.io/)   | ?              |
+| [Urbit](https://urbit.org/)            | ?              |  Hoon                                                       | Yes   |    
+| [Waves](https://wavesplatform.com/)    | ?              |  _NA_                                                       | Yes   |RU     |  ?          |2016   |2016.11   | 
 
 ## Ethereum
 
