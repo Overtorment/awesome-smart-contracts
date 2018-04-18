@@ -38,7 +38,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 
 | Platform name                          | Engine         | Contract language                                           | Live? |Origin | Inc. in     | Est.  | Pub. rel.|
 |----------------------------------------|----------------|:-----------------------------------------------------------:|------:|------:|------------:|------:|----------|
-| [Bitcoin](https://docs.ivy-lang.org)   | Bitcoin script |  Ivy-lang                                                   | Yes   | USA     | USA       |2017.12|2017.12   |
+| [Bitcoin](https://bitcoin.org/)        | Bitcoin script |  [Ivy-lang](https://docs.ivy-lang.org), [Balzac](https://blockchain.unica.it/balzac/docs/)           | Yes   | USA     | USA       |2017.12|2017.12   |
 | [BitShares](https://bitshares.org/)    | ?              |  ?                                                          | Yes   |    
 | [Byteball](https://byteball.org)       | Byteball       |  JSON                                                       | Yes   | RU    |             |2016.12|2016.12   |
 |[Cardano](https://cardanofoundation.org)| ?              |  Plutus (Haskell inspired)                                  | no    |HK       |Switzerland|2015   |
@@ -217,14 +217,28 @@ Docs:
   * https://github.com/wavesplatform/Waves/wiki/Waves-Node-REST-API
   * https://github.com/wavesplatform/Waves/wiki/Matcher
 
-## Ivy for Bitcoin
+## Bitcoin
 
-Ivy for Bitcoin: a smart contract language that compiles to Bitcoin Script
+### Ivy
+
+Ivy: a smart contract language that compiles to Bitcoin Script
 
 Docs:
 * https://blog.chain.com/ivy-for-bitcoin-a-smart-contract-language-that-compiles-to-bitcoin-script-bec06377141a
-* https://ivy-lang.org/bitcoin
 * https://docs.ivy-lang.org/bitcoin/
+
+Online tool:
+* https://ivy-lang.org/bitcoin
+
+### Balzac
+
+Balzac: an high-level language for writing transactions, verifying their correctness, and compiling them into actual Bitcoin transactions.
+
+Docs:
+* https://blockchain.unica.it/balzac/docs/
+
+Online tool:
+* https://blockchain.unica.it/balzac/
 
 ## Neblio
 
