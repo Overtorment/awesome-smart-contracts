@@ -114,8 +114,6 @@ Governed by Ubiq Technology Inc.
 
 ## Urbit
 
-WTF is dis
-
 Contract examples: 
 * https://github.com/urbit/examples
 
