@@ -209,7 +209,7 @@ Waves is a PoS blockchain specifically designed to issue tokens (and run ICOs). 
 Users can also lease funds to miners o generate interest.  There's also a decentralized exchange (DEX) with front-run protection, 
 and gateways to common fiat currencies.
 
-Smart contracts are planned (as stated on website), but not yet supported. 
+Non-Turing-complete [smart contracts](https://docs.wavesplatform.com/technical-details/waves-contracts-language-description.html) support [was launched](https://blog.wavesplatform.com/waves-smart-contracts-stage-1-311e4e5a0441) on TestNet on May 3, 2018. 
 
 Docs:
   * https://github.com/wavesplatform/Waves/wiki/Waves-Node-REST-API
