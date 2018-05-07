@@ -33,6 +33,9 @@ To the extent possible under law, [Igor Korsakov](http://igorkorsakov.com/) has 
 ### Contribute!
 Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 
+### Referenced by
+* https://hackernoon.com/comparison-of-smart-contract-platforms-2796e34673b7
+
 
 ## Platforms list
 
