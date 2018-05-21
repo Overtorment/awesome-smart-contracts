@@ -35,6 +35,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 
 ### Referenced by
 * https://hackernoon.com/comparison-of-smart-contract-platforms-2796e34673b7
+* https://medium.com/@PaulRBerg/forget-thrones-welcome-the-game-of-smart-contracts-cf4fad9e0489
 
 
 ## Platforms list
