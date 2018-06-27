@@ -50,7 +50,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 | Counterparty                           | ?              |  ?                                                          | Yes   |    
 | [Corda](https://www.corda.net/)        | ?              |
 | [DFINITY](https://dfinity.org/)        | EVM?           | Ethereum compatible (aka Solidity, Serpent, etc.)                                           | No |  |  |   |  |
-| [EOS](https://eos.io/)                 | EVM / eWASM    |  C/C++ (compiles to WASM)                                   | Yes    |    
+| [EOS](https://eos.io/)                 | EVM / eWASM    |  C/C++ (compiles to WASM)                                   | Yes   |       |             |       |2018.06    
 | [Ethereum](https://www.ethereum.org/)  | EVM            |  Solidity                                                   | Yes   | CA    |Switzerland  |2014.04|2015.07   |
 | [Ethereum Classic](https://ethereumclassic.github.io/)| EVM |  Solidity                                              | Yes   | ^^^   | no          | ^^^   | ^^^      |
 | [Exonum](https://exonum.com)           | ?              |  Rust. Java bindings TBD                                    | No    | UA    |Netherlands  |       |2017.07   |
