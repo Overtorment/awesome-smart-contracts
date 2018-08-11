@@ -43,6 +43,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 
 | Platform name                          | Engine         | Contract language                                           | Live? |Origin | Inc. in     | Est.  | Pub. rel.|
 |----------------------------------------|----------------|:-----------------------------------------------------------:|------:|------:|------------:|------:|----------|
+| [Aeternity](https://aeternity.com/)    | HLM, FTWVM, AEVM | [Sophia, Varna, Solidity](https://github.com/aeternity/protocol/blob/master/contracts/contract_vms.md) | no | FL | Liechtenstein | 2017 | |
 | [Bitcoin](https://bitcoin.org/)        | Bitcoin script |  [Ivy-lang](https://docs.ivy-lang.org), [Balzac](https://blockchain.unica.it/balzac/docs/)           | Yes   | USA     | USA       |2017.12|2017.12   |
 | [BitShares](https://bitshares.org/)    | ?              |  ?                                                          | Yes   |    
 | [Byteball](https://byteball.org)       | Byteball       |  JSON                                                       | Yes   | RU    |             |2016.12|2016.12   |
