@@ -66,6 +66,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 | quorum                                 | ?              |  ?                                                          | ?     |    
 | [Radix](https://www.radixdlt.com/)     | ?              | Scrypto (Based on JavaScript/TypeScript) | Yes | UK | UK     | 2018  | |
 | [Rootstock](http://www.rsk.co/)        | EVM            |  Solidity                                                   | no    |Argentina|Argentina  |2015.11|
+| [Snax](https://snax.one/)                 | EVM / eWASM    |  C/C++ (compiles to WASM)                                   | no   |       |             | 2018.12 |  
 | [Tezos](https://www.tezos.com)         | ?              |  Michelson                                                  | no    |
 | [Ubiq](http://www.ubiqsmart.com/)      | EVM            |  Solidity                                                   | Yes   | CA    | CA ?        |       |2017.01   |
 | [Universa](https://www.universa.io/)   | ?              |
