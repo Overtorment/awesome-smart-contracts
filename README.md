@@ -56,7 +56,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 | [Ethereum Classic](https://ethereumclassic.github.io/)| EVM |  Solidity                                              | Yes   | ^^^   | no          | ^^^   | ^^^      |
 | [Exonum](https://exonum.com)           | ?              |  Rust. Java bindings TBD                                    | No    | UA    |Netherlands  |       |2017.07   |
 | hyperledger                            | Sandbox        |  ?                                                          | ?     |
-| [Komodo](https://komodoplatform.com/)  | [CryptoConditions](https://github.com/KomodoPlatform/Mastering_CryptoConditions/blob/master/all_chapters.md)        | C/C++ atm (can be any Turing complete language) |Yes | | | 2016.11 | 2018.07 (CC implementation)
+| [Komodo](https://komodoplatform.com/)  | [CryptoConditions](https://github.com/KomodoPlatform/Mastering_CryptoConditions/blob/master/all_chapters.md)        | C/C++ atm (can be any Turing complete language) |Yes | | | 2016.11 | 2018.07 (CC)
 | [Lisk](https://lisk.io/)               | N/A            |  Javascript
 | [Nem](https://nem.io/)                 | Offchiain      |  ?                                                          | ?     |
 | [Neo](https://neo.org/)                | NeoVM          |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes| China | China       |2014.06|2016.10   |
