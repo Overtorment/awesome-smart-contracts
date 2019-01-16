@@ -5,21 +5,21 @@ Curated list of platforms to run Smart Contracts.
 ### What is Smart Contract?
 
 ```
-"New institutions, and new ways to formalize the relationships that make up these institutions, are now 
-made possible by the digital revolution. I call these new contracts "smart", because they are far more 
-functional than their inanimate paper-based ancestors. No use of artificial intelligence is implied. 
-A smart contract is a set of promises, specified in digital form, including protocols within which the 
+"New institutions, and new ways to formalize the relationships that make up these institutions, are now
+made possible by the digital revolution. I call these new contracts "smart", because they are far more
+functional than their inanimate paper-based ancestors. No use of artificial intelligence is implied.
+A smart contract is a set of promises, specified in digital form, including protocols within which the
 parties perform on these promises."
 
 -Nick Szabo, 1996
 ```
 ```
-Smart contracts are contracts whose terms are encoded in  computer language instead of legal language. 
-Smart contracts can be executed by a computing network such as RSK, so that the terms of the contracts 
+Smart contracts are contracts whose terms are encoded in  computer language instead of legal language.
+Smart contracts can be executed by a computing network such as RSK, so that the terms of the contracts
 are automatically enforced by a protocol that all nodes in the network follow.
 
-A smart contract can be fully autonomous if all the objects referred (such as currency, payments, 
-obligations, property titles, assets, licenses) have a digital representation in the platform. 
+A smart contract can be fully autonomous if all the objects referred (such as currency, payments,
+obligations, property titles, assets, licenses) have a digital representation in the platform.
 
 Source: https://faq.rsk.co/en/main/
 ```
@@ -55,7 +55,8 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 | [Ethereum](https://www.ethereum.org/)  | EVM            |  Solidity                                                   | Yes   | CA    |Switzerland  |2014.04|2015.07   |
 | [Ethereum Classic](https://ethereumclassic.github.io/)| EVM |  Solidity                                              | Yes   | ^^^   | no          | ^^^   | ^^^      |
 | [Exonum](https://exonum.com)           | ?              |  Rust. Java bindings TBD                                    | No    | UA    |Netherlands  |       |2017.07   |
-| hyperledger                            | Sandbox        |  ?                                                          | ?     |    
+| hyperledger                            | Sandbox        |  ?                                                          | ?     |
+| [Komodo](https://komodoplatform.com/)  | [CryptoConditions](https://github.com/KomodoPlatform/Mastering_CryptoConditions/blob/master/all_chapters.md)        | C/C++ atm (can be any Turing complete language) |Yes | | | 2016.11 | 2018.07 (CC implementation)
 | [Lisk](https://lisk.io/)               | N/A            |  Javascript
 | [Nem](https://nem.io/)                 | Offchiain      |  ?                                                          | ?     |
 | [Neo](https://neo.org/)                | NeoVM          |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes| China | China       |2014.06|2016.10   |
@@ -71,7 +72,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 | [Ubiq](http://www.ubiqsmart.com/)      | EVM            |  Solidity                                                   | Yes   | CA    | CA ?        |       |2017.01   |
 | [Universa](https://www.universa.io/)   | ?              |
 | [Urbit](https://urbit.org/)            | ?              |  Hoon                                                       | Yes   |    
-| [Waves](https://wavesplatform.com/)    | ?              |  _NA_                                                       | Yes   |RU     |  ?          |2016   |2016.11   | 
+| [Waves](https://wavesplatform.com/)    | ?              |  _NA_                                                       | Yes   |RU     |  ?          |2016   |2016.11   |
 
 ## Ethereum
 
@@ -84,17 +85,17 @@ Docs:
   * [solidity.readthedocs.io](http://solidity.readthedocs.io)
   * [Awesome Ethereum list](https://github.com/void4/awesome-ethereum)
 
-Contract examples: 
+Contract examples:
 * https://github.com/fivedogit/solidity-baby-steps
 * https://github.com/OpenZeppelin/zeppelin-solidity/tree/master/contracts
 * https://github.com/ConsenSys/
 
 ## Ethereum Classic
 
-Classic appeared as a fork of main Ethereum chain (right after famous DAO hack) by a community that disagreed to 
+Classic appeared as a fork of main Ethereum chain (right after famous DAO hack) by a community that disagreed to
 alter the blockchain to get back stolen funds.
 ETC is still in search of its place in smart contracts world. Some engineering changes are still going under the hood
-(like, changing the emission and difficulty retarget algo), and developer tools are being developed. 
+(like, changing the emission and difficulty retarget algo), and developer tools are being developed.
 No major token crowdsales were made yet, but the community is looking forward to it.
 
 Not incorporated.
@@ -102,16 +103,30 @@ Not incorporated.
 
 ## Neo
 
-NEO (formerly Antshares) is a Chinese answer to Ethereum. Neo is a major player in SmartContracts world and 
+NEO (formerly Antshares) is a Chinese answer to Ethereum. Neo is a major player in SmartContracts world and
 often compared to Ethereum.
 
 First batch of supported languages is ready for production use. Second is partially ready, and third is planned.
 
 Docs:
  * [docs.neo.org/en-us/sc/introduction.html](http://docs.neo.org/en-us/sc/introduction.html)
- 
+
 Contract examples:
  * https://github.com/neo-project/examples-csharp
+
+## Komodo Platform
+
+Komodo Platform is a fully open-source infrastructure for an interoperable blockchain ecosystem.
+
+Komodo’s Crypto-Conditions powered (UTXO based)  Smart Contracts are revolutionary because they make the Bitcoin protocol Turing complete and enable language-agnostic customisation of spending conditions for any funds. Komodo CC Smart Contracts are also natively embedded, providing seamless cross-chain interoperability. CC Smart Contracts are superior to traditional ones as they operate at the protocol level, offering maximum flexibility and programmability.
+
+ Docs:
+   * [Mastering CryptoConditions](https://github.com/KomodoPlatform/Mastering_CryptoConditions/blob/master/all_chapters.md)
+   * [Komodo-DEV documentation portal](https://developers.komodoplatform.com/)
+   * [Protocol specification](https://tools.ietf.org/html/draft-thomas-crypto-conditions-04)
+
+ Contract examples:
+   * https://github.com/KomodoPlatform/komodo/tree/master/src/cc
 
 ## Ubiq
 
@@ -121,7 +136,7 @@ Governed by Ubiq Technology Inc.
 
 ## Urbit
 
-Contract examples: 
+Contract examples:
 * https://github.com/urbit/examples
 
 
@@ -130,7 +145,7 @@ Contract examples:
 Rootstock is a Bitcoin sidechain, adding Turing-complete language (enabling smart contracts) and ability to
 scale up to 20k transactions per second (eventually). Sidechain shall be secured by a merge-mining with regular Bitcoin pools.
 
-Rootstock is very well received by community, and among all 2nd layer solutions for Bitcoin is considered to be 
+Rootstock is very well received by community, and among all 2nd layer solutions for Bitcoin is considered to be
 one of the closest to completion.
 
 Language used shall be Solidity, and RSK VM is fully compatible with Ethereum VM.
@@ -139,8 +154,8 @@ Docs:
  * https://faq.rsk.co/en/main/
  * https://github.com/rsksmart/rskj/wiki
  * http://media.rsk.co/
-    
-    
+
+
 
 ## Cardano
 
@@ -156,41 +171,41 @@ Governed by The Cardano Foundation, IOHK and Emurgo.
 Docs:
   * https://whycardano.com/
   * https://cardanodocs.com/technical/plutus/introduction/  
-    
+
 Contract examples:
   * https://cardanodocs.com/technical/plutus/examples/
 
 
 ## Exonum
 
-Exonum is an extensible open-source framework for creating blockchain applications. It is designed to 
+Exonum is an extensible open-source framework for creating blockchain applications. It is designed to
 allow you, your company or your government to build a tailor-cut private or permissioned blockchain.  
 Thus, there's no public Exonum network or traded Exonum tokens.
 
 Exonum is developed and supported by the Bitfury Group.
 
 ```
-Services are the main extension point for the Exonum framework. By itself, Exonum provides building 
-blocks for creating blockchains; it does not come with any concrete transaction processing rules. 
-This is where services come into play. If you want to create an instance of the Exonum blockchain, 
+Services are the main extension point for the Exonum framework. By itself, Exonum provides building
+blocks for creating blockchains; it does not come with any concrete transaction processing rules.
+This is where services come into play. If you want to create an instance of the Exonum blockchain,
 services are the way to go.
 ```
 
 ```
-Endpoints defined by services fulfill the same role as smart contracts in other blockchain platforms. 
-They define business logic of the blockchain, allow to retrieve data from the blockchain, and can be 
-reused across different projects. Partial analogies for this execution model are endpoints of RESTful 
+Endpoints defined by services fulfill the same role as smart contracts in other blockchain platforms.
+They define business logic of the blockchain, allow to retrieve data from the blockchain, and can be
+reused across different projects. Partial analogies for this execution model are endpoints of RESTful
 web services and stored procedures for DBMSs.
 ```
 
 Docs:
   * https://exonum.com/doc/architecture/services/
   * https://exonum.com/doc/get-started/design-overview/#smart-contracting
-  
+
 Contract examples:
   * https://exonum.com/doc/get-started/create-service/
-  
-  
+
+
 ## BitShares
 
 BitShares 2.0 is the first application of Graphene technology.
@@ -198,7 +213,7 @@ BitShares 2.0 is the first application of Graphene technology.
 
 ## Qtum
 
-Qtum is a hybrid blockchain application platform. Qtum’s core technology combines a fork of bitcoin core, 
+Qtum is a hybrid blockchain application platform. Qtum’s core technology combines a fork of bitcoin core,
 an Account Abstraction Layer allowing for multiple Virtual Machines including the Ethereum Virtual Machine (EVM) and Proof-of-Stake consensus.
 
 Qtum smart contracts aim to be compatible with existing Ethereum contracts.
@@ -212,11 +227,11 @@ Qtum started in 2016, in 2017.03 Qtum had a crowdsale distributng their tokens. 
 
 ## Waves
 
-Waves is a PoS blockchain specifically designed to issue tokens (and run ICOs). Some of the largest ICOs were run on Waves Platform. 
-Users can also lease funds to miners o generate interest.  There's also a decentralized exchange (DEX) with front-run protection, 
+Waves is a PoS blockchain specifically designed to issue tokens (and run ICOs). Some of the largest ICOs were run on Waves Platform.
+Users can also lease funds to miners o generate interest.  There's also a decentralized exchange (DEX) with front-run protection,
 and gateways to common fiat currencies.
 
-Non-Turing-complete [smart contracts](https://docs.wavesplatform.com/technical-details/waves-contracts-language-description.html) support [was launched](https://blog.wavesplatform.com/waves-smart-contracts-stage-1-311e4e5a0441) on TestNet on May 3, 2018. 
+Non-Turing-complete [smart contracts](https://docs.wavesplatform.com/technical-details/waves-contracts-language-description.html) support [was launched](https://blog.wavesplatform.com/waves-smart-contracts-stage-1-311e4e5a0441) on TestNet on May 3, 2018.
 
 Docs:
   * https://github.com/wavesplatform/Waves/wiki/Waves-Node-REST-API
@@ -247,7 +262,7 @@ Online tool:
 
 ## Neblio
 
-The Neblio network has an assortment of services that deploy blockchain technology. Simply put, it is an API suite, hosting platform, 
+The Neblio network has an assortment of services that deploy blockchain technology. Simply put, it is an API suite, hosting platform,
 consultancy service provider, Node deployment base as well as a private blockchain DApps.
 
 Neblio uses RESTful APIs to give maximum compatibility to almost any language.
