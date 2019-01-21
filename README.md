@@ -56,6 +56,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 | [Ethereum Classic](https://ethereumclassic.github.io/)| EVM |  Solidity                                              | Yes   | ^^^   | no          | ^^^   | ^^^      |
 | [Exonum](https://exonum.com)           | ?              |  Rust. Java bindings TBD                                    | No    | UA    |Netherlands  |       |2017.07   |
 | hyperledger                            | Sandbox        |  ?                                                          | ?     |    
+| [Lamden](https://lamden.io)            | Python VM      |  [Python with various restrictions and additions.](https://github.com/Lamden/seneca)           | Yes   | US    |Switzerland  |2017 | [Telegram](http://t.me/LamdenChat)
 | [Lisk](https://lisk.io/)               | N/A            |  Javascript
 | [Nem](https://nem.io/)                 | Offchiain      |  ?                                                          | ?     |
 | [Neo](https://neo.org/)                | NeoVM          |  1st batch: dotNet; 2nd: Java,Kotlin; 3rd: C,C++,GO,Py,JS (TBD)| Yes| China | China       |2014.06|2016.10   |
@@ -112,6 +113,16 @@ Docs:
  
 Contract examples:
  * https://github.com/neo-project/examples-csharp
+
+## Lamden
+
+Lamden is one of the few projects that is not using another smart contracting system as a base for their own model. Seneca, the Python library that enables their smart contracts, is designed to be as simple to use as possible. The choice of allowing Python as a scripting language enables people to develop contracts without deeper knowledge of computer science, which is perfect for creativity applications. For security, the managed environment in which smart contracts run in prevents the attack vectors that have been discovered in the smart contracting space in general so far (DAO hack, Parity hack, etc).
+
+Contract examples:
+* https://github.com/Lamden/seneca/tree/dev/test_contracts
+
+Docs:
+* https://docs.lamden.io/seneca/
 
 ## Ubiq
 
