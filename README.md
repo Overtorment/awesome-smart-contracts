@@ -52,6 +52,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 | [Corda](https://www.corda.net/)        | ?              |
 | [DFINITY](https://dfinity.org/)        | EVM?           | Ethereum compatible (aka Solidity, Serpent, etc.)                                           | No |  |  |   |  |
 | [EOS](https://eos.io/)                 | EVM / eWASM    |  C/C++ (compiles to WASM)                                   | Yes   |       |             |       |2018.06    
+| [Ergo](https://ergoplatform.org/en/)   | ErgoScript              | [ErgoScript](https://storage.googleapis.com/ergo-cms-media/docs/ErgoScript.pdf) | Yes    |       | Singapore  | 2019   | 2019   |
 | [Ethereum](https://www.ethereum.org/)  | EVM            |  Solidity                                                   | Yes   | CA    |Switzerland  |2014.04|2015.07   |
 | [Ethereum Classic](https://ethereumclassic.github.io/)| EVM |  Solidity                                              | Yes   | ^^^   | no          | ^^^   | ^^^      |
 | [Exonum](https://exonum.com)           | ?              |  Rust. Java bindings TBD                                    | No    | UA    |Netherlands  |       |2017.07   |
@@ -72,6 +73,22 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 | [Universa](https://www.universa.io/)   | ?              |
 | [Urbit](https://urbit.org/)            | ?              |  Hoon                                                       | Yes   |    
 | [Waves](https://wavesplatform.com/)    | ?              |  _NA_                                                       | Yes   |RU     |  ?          |2016   |2016.11   | 
+
+## Ergo
+
+Ergo is a next-generation Proof of Work smart-contract platform that enables new models of financial interaction, underpinned by a safe and rich scripting language built with flexible and powerful Zero-Knowledge proofs (Σ-protocols).
+
+Ergo was designed and implemented by experienced developers and researchers who hold publications and PhDs in cryptography, compiler theory, blockchain technology, and cryptographic e-cash.
+
+Docs:
+  * [The Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/))
+  * [ErgoScript](https://storage.googleapis.com/ergo-cms-media/docs/ErgoScript.pdf)
+  * [Ergo Docs](https://docs.ergoplatform.com/)
+
+Contract examples: 
+* [DEXy Stablecoin](https://github.com/kushti/dexy-stable)
+* [Sigmabonds](https://github.com/K-Singh/SigmaBonds)
+* [Subpooling](https://github.com/GetBlok-io/Subpooling)
 
 ## Ethereum
 
