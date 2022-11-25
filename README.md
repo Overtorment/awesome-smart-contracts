@@ -81,7 +81,7 @@ Ergo is a next-generation Proof of Work smart-contract platform that enables new
 Ergo was designed and implemented by experienced developers and researchers who hold publications and PhDs in cryptography, compiler theory, blockchain technology, and cryptographic e-cash.
 
 Docs:
-  * [The Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/))
+  * [The Ergo Manifesto](https://ergoplatform.org/en/blog/2021-04-26-the-ergo-manifesto/)
   * [ErgoScript](https://storage.googleapis.com/ergo-cms-media/docs/ErgoScript.pdf)
   * [Ergo Docs](https://docs.ergoplatform.com/)
 
