@@ -46,9 +46,9 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 | [Aeternity](https://aeternity.com/)    | HLM, FTWVM, AEVM | [Sophia, Varna, Solidity](https://github.com/aeternity/protocol/blob/master/contracts/contract_vms.md) | no | FL | Liechtenstein | 2017 | |
 | [Bitcoin](https://bitcoin.org/)        | Bitcoin script |  [Ivy-lang](https://docs.ivy-lang.org), [Balzac](https://blockchain.unica.it/balzac/docs/)           | Yes   | USA     | USA       |2017.12|2017.12   |
 | [BitShares](https://bitshares.org/)    | ?              |  ?                                                          | Yes   |    
-| [Byteball](https://byteball.org)       | Byteball       |  JSON                                                       | Yes   | RU    |             |2016.12|2016.12   |
+| [Obyte](https://obyte.org/)       | Byteball       |  JSON                                                       | Yes   | RU    |             |2016.12|2016.12   |
 |[Cardano](https://cardanofoundation.org)| [IELE](https://iohk.io/blog/iele-a-new-virtual-machine-for-the-blockchain) |  Plutus (Haskell inspired)                                  | no    |HK       |Switzerland|2015   |
-| Counterparty                           | ?              |  ?                                                          | Yes   |    
+| [Counterparty](https://counterparty.io/)                           | ?              |  ?                                                          | Yes   |    
 | [Corda](https://www.corda.net/)        | ?              |
 | [DFINITY](https://dfinity.org/)        | EVM?           | Ethereum compatible (aka Solidity, Serpent, etc.)                                           | No |  |  |   |  |
 | [EOS](https://eos.io/)                 | EVM / eWASM    |  C/C++ (compiles to WASM)                                   | Yes   |       |             |       |2018.06    
