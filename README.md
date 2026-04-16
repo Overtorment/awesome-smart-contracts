@@ -40,6 +40,7 @@ Share your knowledge. [Contributing guide](CONTRIBUTING.md)
 
 
 ## Platforms list
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Old computers earn more than new ones.
 
 | Platform name                          | Engine         | Contract language                                           | Live? |Origin | Inc. in     | Est.  | Pub. rel.|
 |----------------------------------------|----------------|:-----------------------------------------------------------:|------:|------:|------------:|------:|----------|
