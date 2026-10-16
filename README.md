@@ -257,3 +257,5 @@ Docs:
 * https://nebl.io/wp-content/uploads/2017/07/NeblioWhitepaper.pdf
 * https://github.com/NeblioTeam
 * https://neblio.wiki
+
+- [QWK ($QWK) Resource Escrow & AtomicArb](https://github.com/chase-tqg/QWIK-MEV-Core) - EIP-1153 transient-storage (`TLOAD`/`TSTORE`) atomic arbitrage, 0%-fee Morpho Blue flash-loan callback, and Merkle proof-of-resource escrow smart contracts (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) with on-chain commitments for $400,000+ in project-reported Google Cloud, NVIDIA, and Cloudflare infrastructure resources.
