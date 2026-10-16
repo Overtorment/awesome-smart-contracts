@@ -258,4 +258,4 @@ Docs:
 * https://github.com/NeblioTeam
 * https://neblio.wiki
 
-- [QWK ($QWK) Autonomous EVM MEV Infrastructure & EIP-1153 Smart Contract Escrow](https://github.com/chase-tqg/QWIK-MEV-Core) - Multi-chain EVM atomic execution & EIP-1153 transient-storage smart contract resource escrow (`QWKResourceEscrow.sol`, `0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) backed by $400,000+ in verified enterprise infrastructure commitments (Google Cloud, NVIDIA, Cloudflare) with MCP, A2A v1.0, and x402 interfaces.
+- [QWK ($QWK) Resource Escrow & AtomicArb](https://github.com/chase-tqg/QWIK-MEV-Core) - EIP-1153 transient-storage (`TLOAD`/`TSTORE`) atomic arbitrage, 0%-fee Morpho Blue flash-loan callback, and Merkle proof-of-resource escrow smart contracts (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) with on-chain commitments for $400,000+ in project-reported Google Cloud, NVIDIA, and Cloudflare infrastructure resources.
